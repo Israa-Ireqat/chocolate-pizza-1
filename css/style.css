@@ -1,0 +1,22 @@
+body {
+    width:  950px;
+    margin: auto;
+}
+
+hgroup article:nth-child(1)
+{
+float: left;
+
+}
+
+hgroup article:nth-child(2)
+{
+
+    float:right;
+}
+
+hgroup hr 
+{
+
+    clear: both;
+}
