@@ -40,3 +40,38 @@ body{
 #printline{
     float:right;
 }
+main p{
+    text-align:end;
+    text-size-adjust: 5em;
+}
+.vanessa img{
+    float:left;
+}
+.vanessa  h3{
+line-height: 20px;
+padding-top: 10px;
+}
+#list{
+    background-image: url(/img/list-bg.png);
+    line-height: 2.5em;
+    height: 300px;
+    display: block;
+}
+.first{
+    float:left;
+}
+.second{
+    float:right;
+}
+footer{
+    width: 100%;
+}
+#lower{
+    align-content: center;
+    background-image:url(/img/hr-img.png);
+    background-repeat: repeat-x;
+    height: 100px;
+    size: 100px;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
