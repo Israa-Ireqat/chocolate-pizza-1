@@ -57,14 +57,20 @@ padding-top: 10px;
     height: 300px;
     display: block;
 }
-.first{
-    float:left;
+#list{
+         margin: 20px 15px;
+        width: auto;
+        background-image: url("/img/list-bg.png");
+        display:flex;
+        justify-content: space-around;
+        padding-top: 20px;
+        
+    
 }
-.second{
-    float:right;
-}
+
 footer{
     width: 100%;
+    align-content: center;
 }
 #lower{
     align-content: center;
